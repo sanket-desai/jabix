@@ -1,0 +1,1 @@
+java TabixReader ExAc_2k.vcf.gz 1:<start>-<end>

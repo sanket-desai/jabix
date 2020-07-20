@@ -1,0 +1,14 @@
+Features to be added:
+* Background statistics/ TMB per sample/ callable loci => given vcf, bed (theoretical coverage), BAM (realistic coverage), return mutation burden
+#https://software.broadinstitute.org/gatk/documentation/tooldocs/3.8-0/org_broadinstitute_gatk_tools_walkers_coverage_CallableLoci.php
+* Extract sequence flanking a mutation position, given genome
+* Mutation signature? refer cosmic
+* Gene/CDS/Region annotation??
+* Variant selection for particular feature in GTF
+* MultiVCFReader -> sample variant matrix, recurrence calculation, genome/feature mutation clustering algorithm implementation
+#Primary step for DOMAIN like analysis
+
+
+Features available:
+Annotated variant (VCF) file parsing / VEP, CSQ
+BAM based variant features
